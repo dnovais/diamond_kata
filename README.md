@@ -1,9 +1,3 @@
-Sobre o projeto (about the project):
-====================================
-
-Começando em (start at): 29/06/2018 - 08:00
-Finalizado em (finish at): 29/06/2018 - 13:00
-
 Diamond Kata
 ============
 
